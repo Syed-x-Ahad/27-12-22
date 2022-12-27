@@ -1,0 +1,100 @@
+.nbar{
+    height: 150px ;
+    background: linear-gradient(to bottom, #1c778e, #71c8db); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  }
+  .nitm{
+  
+    position: relative;
+    top: -10px ;
+    color: rgb(23, 2, 2) ;
+  }
+  .nlnk{
+    color: rgb(214, 223, 233);
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 20px;
+    
+    
+  }
+  .nlnk:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+
+  }
+  .dropdown-menu{
+    display: none;
+  }
+  .main{
+    background: linear-gradient(to right, #FFFDE4, #a5d5ff);
+  }
+
+  .heading{
+    padding-top: 50px;
+    color: rgb(29, 75, 108); 
+    font-family: roboto;
+    text-align: center;
+    text-decoration: underline;
+ }
+ .para{
+   color: rgb(29, 75, 108); 
+    font-family: roboto;
+    font-size: 22px;
+    text-align: justify;
+    padding: auto;
+ }
+
+ .crd{
+  border: 1px solid black ;
+  border-radius: 15px;
+  padding: 5px;
+  margin-top: 10px;
+  
+ }
+ .crd-txt{
+  font-family: cambria;
+  font-size: 22px ;
+  font-weight: bold;
+ }
+ .crd-im{
+  border: 1px solid black ;
+  border-radius: 15px;
+  margin-top : 5px ;
+ }
+
+
+
+ .foot{
+    height: 350px ;
+    background: linear-gradient(to bottom, #1c778e, #71c8db);
+  }
+  h3{
+    color: rgb(214, 223, 233);
+    font-family: roboto;
+    text-align: justify;
+    text-decoration: underline;
+    padding-left: 38px;
+    padding-top: 30px;
+  }
+  .lst2{   
+    color: rgb(214, 223, 233);
+    font-family: roboto;
+    font-size: 22px;
+    text-align: justify;
+    padding-top: 5px;
+    list-style-type: none;
+  }
+  h3:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+  }
+  .lst2:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+
+  }
+  
